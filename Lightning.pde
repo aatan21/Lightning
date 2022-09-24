@@ -63,9 +63,3 @@ void mousePressed()
   endX3 = 0;
   endY3 = 300;
 }
-  startX = 0;
-  startY = 300;
-  endX = 0;
-  endY = 300;
-}
-
